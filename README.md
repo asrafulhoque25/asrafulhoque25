@@ -3,7 +3,7 @@
 
 <!-- ===== TYPING ===== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Turning+ideas+into+pixel-perfect+interfaces;React+%7C+Next.js+%7C+Tailwind+%7C+WordPress;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+<iframe src="https://giphy.com/embed/PvvSfSDFoAL5e" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
 
 <br/>
