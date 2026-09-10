@@ -3,7 +3,7 @@
 
 <!-- ===== TYPING ===== -->
 <div align="center">
-<iframe src="https://giphy.com/embed/PvvSfSDFoAL5e" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/PvvSfSDFoAL5e" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PvvSfSDFoAL5e">via GIPHY</a></p>
 </div>
 
 <br/>
