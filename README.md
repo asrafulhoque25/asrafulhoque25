@@ -2,9 +2,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:06B6D4&height=220&section=header&text=Asraful%20Hoque%20Emon&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%26%20WordPress%20Developer&descSize=20&descAlignY=60" />
 
 <!-- ===== TYPING ===== -->
-<div align="center">
-<iframe src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGo1M2hobndzYWJrMjNlZGlyZGFoeHU1cGFkZXJucGc3NW9ydTZrOSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/fQZX2aoRC1Tqw/giphy.gif" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGo1M2hobndzYWJrMjNlZGlyZGFoeHU1cGFkZXJucGc3NW9ydTZrOSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/fQZX2aoRC1Tqw/giphy.gif" alt="GIF Description" width="400" />
+</p>
 
 <br/>
 
