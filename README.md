@@ -3,7 +3,7 @@
 
 <!-- ===== TYPING ===== -->
 <div align="center">
-<iframe src="https://giphy.com/embed/PvvSfSDFoAL5e" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PvvSfSDFoAL5e">via GIPHY</a></p>
+<iframe src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGo1M2hobndzYWJrMjNlZGlyZGFoeHU1cGFkZXJucGc3NW9ydTZrOSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/fQZX2aoRC1Tqw/giphy.gif" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
 
 <br/>
