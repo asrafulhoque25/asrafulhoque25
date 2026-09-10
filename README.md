@@ -51,9 +51,14 @@ const asraful = {
 </table>
 
 <!-- ===== DIVIDER ===== -->
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme-with-badges/master/assets/colored.png"/>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTBjNzQyODJjYmgwYXN4a3Q0cml4YmQ5bTkxdzZxeXUzdGpicjBsOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tod3NKWchKrSMvLh7X/giphy.gif" alt="GIF Description"  />
+</p>
 
 <!-- ===== TECH STACK ===== -->
+
+
 <h2 align="center">🧰 Tech Stack</h2>
 
 <div align="center">
@@ -65,9 +70,7 @@ const asraful = {
 <br/>
 
 <!-- ===== SNAKE ===== -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/asrafulhoque25/asrafulhoque25/output/snake.svg" alt="snake" />
-</div>
+
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21mZWdjcTdtdzFsYXFjODd0MG56b2x6cGtqeDBsdGx0aDh2djF1cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d9QiBcfzg64Io/giphy.gif" alt="GIF Description"  />
 </p>
