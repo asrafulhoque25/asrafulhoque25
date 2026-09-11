@@ -11,8 +11,8 @@
 <!-- ===== SOCIAL + VIEWS ===== -->
 <div align="center">
   <a href="https://asrafulhoque25.github.io/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=vercel&logoColor=white&labelColor=6366F1" height="28"/></a>
-  <a href="https://www.linkedin.com/in/asraful-hoque-emon-211a731b0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28"/></a>
+  <a href="[https://www.linkedin.com/in/asraful-hoque-emon-211a731b0/](https://www.linkedin.com/in/md-asraful-hoque-211a731b0?utm_source=share_via&utm_content=profile&utm_medium=member_ios)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/></a>
+  <a href="mailto:asrafulhoqueemon25@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28"/></a>
   <img src="https://komarev.com/ghpvc/?username=asrafulhoque25&label=Profile%20views&color=8B5CF6&style=flat-square" height="28"/>
 </div>
 
