@@ -1,4 +1,6 @@
 <!-- ===== HEADER BANNER ===== -->
+<h1 align="center">Md Asraful Hoque (Emon)</h1>
+<p align="center"><b>Full-Stack Web Developer</b> · Shopify · Next.js · WordPress · Webflow · AI Integrations · Dhaka, Bangladesh</p>
 
 
 <!-- ===== TYPING ===== -->
@@ -12,6 +14,9 @@
 <div align="center">
   <a href="https://asrafulhoque25.github.io/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=vercel&logoColor=white&labelColor=6366F1" height="28"/></a>
   <a href="https://www.linkedin.com/in/md-asraful-hoque-211a731b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/></a>
+  <a href="https://asrafulhoque25.github.io/about/"><img src="https://img.shields.io/badge/About_me-111111?style=flat-square&logo=readme&logoColor=white" height="28"/></a>
+  <a href="https://asrafulhoque25.github.io/blog/"><img src="https://img.shields.io/badge/Blog-FF5A1F?style=flat-square&logo=rss&logoColor=white" height="28"/></a>
+  <a href="https://www.fiverr.com/asrafulpro" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white" height="28"/></a>
   <a href="mailto:asrafulhoqueemon25@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28"/></a>
   <img src="https://komarev.com/ghpvc/?username=asrafulhoque25&label=Profile%20views&color=8B5CF6&style=flat-square" height="28"/>
 </div>
@@ -23,24 +28,27 @@
 <tr>
 <td width="55%" valign="top">
 
-### 👋 Hey, I'm Asraful
+### 👋 Hey, I'm Md Asraful Hoque
 
-Frontend developer from **Dhaka, Bangladesh** 🇧🇩 who loves building **fast, clean & responsive** web experiences.
+Full-stack web developer from **Dhaka, Bangladesh** 🇧🇩. Since 2018 I've built **websites, web apps and Shopify stores**, from Figma to deploy, and I add **AI features** that save teams time.
 
-- Focused on **Frontend** & **WordPress**
-- Working with **React · Next.js · Tailwind**
-- Backend-ready with **PHP & Laravel** when needed
-- Always leveling up on modern React patterns
-- Ask me about **UI, animations & responsive design**
+- 🛍️ **Shopify** stores: custom themes in Liquid, Figma to Shopify
+- ⚛️ **React · Next.js · Tailwind** web apps and dashboards
+- 🧩 Custom **WordPress** themes and **Webflow** builds
+- 🤖 **AI integrations**: chatbots, AI search and automation (OpenAI, Claude, Gemini)
+- 🔌 Backend with **PHP, Laravel & REST APIs**
 
 </td>
 <td width="45%" valign="top">
 
 ```ts
 const asraful = {
-  role: "Frontend Developer",
+  name: "Md Asraful Hoque",
+  role: "Full-Stack Web Developer",
   stack: ["React", "Next.js", "Tailwind"],
-  cms: "WordPress",
+  commerce: "Shopify",
+  cms: ["WordPress", "Webflow"],
+  ai: ["OpenAI", "Claude", "Gemini"],
   vibe: "clean UI + smooth motion",
   status: "open to collab ✨",
 };
@@ -65,6 +73,11 @@ const asraful = {
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&theme=dark" />
   <br/>
   <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,git,github,figma,vscode&theme=dark" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </div>
 
 <br/>
