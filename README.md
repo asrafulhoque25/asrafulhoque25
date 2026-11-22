@@ -13,7 +13,7 @@
 <!-- ===== SOCIAL + VIEWS ===== -->
 <div align="center">
   <a href="https://asrafulhoque25.github.io/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=vercel&logoColor=white&labelColor=6366F1" height="28"/></a>
-  <a href="https://www.linkedin.com/in/md-asraful-hoque-211a731b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/></a>
+  <a href="https://www.linkedin.com/in/asrafulhoque25/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/></a>
   <a href="https://asrafulhoque25.github.io/about/"><img src="https://img.shields.io/badge/About_me-111111?style=flat-square&logo=readme&logoColor=white" height="28"/></a>
   <a href="https://asrafulhoque25.github.io/blog/"><img src="https://img.shields.io/badge/Blog-FF5A1F?style=flat-square&logo=rss&logoColor=white" height="28"/></a>
   <a href="https://www.fiverr.com/asrafulpro" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white" height="28"/></a>
